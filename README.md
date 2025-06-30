@@ -65,6 +65,7 @@ The WeakAuras will auto-position correctly.
 ---
 
 ## 🌟 Features & Tips
+- ⚠️ **Don't** update any of the Core WeakAuras. You **will** break positioning and then need to manual reposition stuff.  
 
 - **Dungeon Prep UI**  
   Mouseover-faded bars above the chat show your flasks, food, oils, etc.
