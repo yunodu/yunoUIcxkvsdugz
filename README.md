@@ -15,7 +15,7 @@
 1. **Delete** your `Interface` and `WTF` folders.
 2. Start the game and log in with any character once.
 3. Close the game.
-4. Import the [**WowUp** string](https://github.com/yunodu/yunoUIcxkvsdugz/blob/main/wowupimportstring) and click **Install**.
+4. Open up WoWUp-CF, click **"My Addons"**, click the three dots and click **"Import/Export Addons"**. Import the [**WowUp** string](https://github.com/yunodu/yunoUIcxkvsdugz/blob/main/wowupimportstring) and click **Install**.
 5. Navigate to: retail/WTF/Account/youraccountnumber/SavedVariables/
 Paste the contents of the **WTF export** folder here. Overwrite any existing files.
 6. Launch the game again.
@@ -67,18 +67,18 @@ The WeakAuras will auto-position correctly.
 ## 🌟 Features & Tips
 
 - **Dungeon Prep UI**  
-- Mouseover-faded bars above the chat show your flasks, food, oils, etc.
+  Mouseover-faded bars above the chat show your flasks, food, oils, etc.
 
 - **Quick Travel Menu**  
-- Hold **ALT+H** to access the travel menu.
+  Hold **ALT+H** to access the travel menu.
 
 - **Hidden Minimap Buttons**  
-- Hover just above the minimap to reveal hidden addon buttons.
+  Hover just above the minimap to reveal hidden addon buttons.
 
 - **LiteMount Integration**  
-- Go to **ESC** → **Keybinds** → scroll to **LiteMount**
-- Set a key for **"LiteMount Key Binding 1"**  
-- LiteMount auto-selects the best mount based on your zone.
+  Go to **ESC** → **Keybinds** → scroll to **LiteMount**
+  Set a key for **"LiteMount Key Binding 1"**  
+  LiteMount auto-selects the best mount based on your zone.
 
 ---
 
