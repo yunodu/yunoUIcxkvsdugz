@@ -16,8 +16,7 @@
 2. Start the game and log in with any character once.
 3. Close the game.
 4. Open up WoWUp-CF, click **"My Addons"**, click the three dots and click **"Import/Export Addons"**. Import the [**WowUp** string](https://github.com/yunodu/yunoUIcxkvsdugz/blob/main/wowupimportstring) and click **Install**.
-5. Navigate to: retail/WTF/Account/youraccountnumber/SavedVariables/
-Paste the contents of the [**WTF export** zip](https://github.com/yunodu/yunoUIcxkvsdugz/blob/main/WTF%20export.zip) here. Overwrite any existing files.
+5. Navigate to: *"retail/WTF/Account/youraccountnumber/SavedVariables/"* and paste the contents of the [**WTF export** zip](https://github.com/yunodu/yunoUIcxkvsdugz/blob/main/WTF%20export.zip) here. Overwrite any existing files.
 6. Launch the game again.
 - If an error message pops up, click **"Load Anyway"** > **"Okay"**.
 7. Once fully loaded and greeted by the **ToxiUI installation** window:
