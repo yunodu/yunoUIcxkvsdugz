@@ -61,6 +61,9 @@ A: Go to **ESC** → **Options** → **AddOns** → **NaowhUI**.
 Select your class → click **Import** → wait for the progress bar to complete.  
 The WeakAuras will auto-position correctly.
 
+**Q: What Icon Pack do you use?**  
+A: I use [CleanIcons](https://github.com/AcidWeb/Clean-Icons-Mechagnome-Edition).
+
 ---
 
 ## 🌟 Features & Tips
