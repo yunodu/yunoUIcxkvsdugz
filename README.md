@@ -80,27 +80,16 @@ The WeakAuras will auto-position correctly.
   Set a key for **"LiteMount Key Binding 1"**  
   LiteMount auto-selects the best mount based on your zone.
 
----
+  ---
 
-## 🧩 Dependencies
-
-Make sure these addons are installed:
-- [ElvUI](https://www.tukui.org/)
-- [Plater](https://www.curseforge.com/wow/addons/plater-nameplates)
-- [WeakAuras](https://www.curseforge.com/wow/addons/weakauras-2)
-- [NaowhUI](https://github.com/Naowh/NaoUI) or via WowUp
-- [LiteMount](https://www.curseforge.com/wow/addons/litemount)
-
----
-
-## 💬 Support
-
-If something breaks or doesn't align, double-check:
-- You’re using **1440p resolution**
-- Your **UI scale is exactly 0.53**
-
-For other resolutions, adjustments must be made manually.
-
-Enjoy the UI!
+ ## 💬 Support
+ 
+ If something breaks or doesn't align, double-check:
+ - You’re using **1440p resolution**
+ - Your **UI scale is exactly 0.53**
+ 
+ For other resolutions, adjustments must be made manually.
+ 
+ Enjoy the UI!
 
 — Yuno
