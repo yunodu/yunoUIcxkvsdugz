@@ -15,7 +15,7 @@
 1. **Delete** your `Interface` and `WTF` folders.
 2. Start the game and log in with any character once.
 3. Close the game.
-4. Import the **WowUp** string and click **Install**.
+4. Import the [**WowUp** string](https://github.com/yunodu/yunoUIcxkvsdugz/blob/main/wowupimportstring) and click **Install**.
 5. Navigate to: retail/WTF/Account/youraccountnumber/SavedVariables/
 Paste the contents of the **WTF export** folder here. Overwrite any existing files.
 6. Launch the game again.
