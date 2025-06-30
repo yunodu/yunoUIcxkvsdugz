@@ -30,6 +30,7 @@
 10. Configure additional addon profiles:
  - `/bw` → **Profiles** → select `yuno`
  - `/warp` → **Profiles** → select `yuno`
+ - `/omnicd` → **Profiles** → select `yuno-dps`
  - `/plater` → **Profiles** → **Open Profile Settings** → select `yuno` → click **Yes** to reload UI
 
 ---
@@ -44,6 +45,7 @@ After all addons are initialized:
 4. Repeat:
 - `/bw` → **Profiles** → `yuno`
 - `/warp` → **Profiles** → `yuno`
+- `/omnicd` → **Profiles** → select `yuno-dps`
 - `/plater` → **Profiles** → select `yuno` → click **Yes**
 
 ---
