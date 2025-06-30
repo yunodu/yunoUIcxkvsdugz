@@ -64,6 +64,9 @@ The WeakAuras will auto-position correctly.
 **Q: What Icon Pack do you use?**  
 A: I use [CleanIcons](https://github.com/AcidWeb/Clean-Icons-Mechagnome-Edition).
 
+**Q: When i swap to Cat/Bear/Stealth form my Actionbars are swapping?**  
+A: Thats "Actionbar Paging". To disable that go to /ec -> Actionbars -> Player Bars -> Action Paging and remove the text in the box. You only have to do this for "Bar 1".
+
 ---
 
 ## 🌟 Features & Tips
